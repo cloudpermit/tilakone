@@ -3,3 +3,5 @@ pom.xml
 pom.xml.asc
 /.lein-*
 /.nrepl-port
+*.iml
+.idea/

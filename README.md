@@ -13,8 +13,6 @@ Minimalistic finite state machine (FSM) in Clojure.
 >
 >    _source: [wiktionary.org](https://en.wiktionary.org/wiki/state_machine)_
 
-[![Clojars Project](https://img.shields.io/clojars/v/metosin/tilakone.svg)](https://clojars.org/metosin/tilakone)
-
 ## Usage
 
 Tested with Clojure `1.10.0`
@@ -22,14 +20,14 @@ Tested with Clojure `1.10.0`
 All bundled:
 
 ```clj
-[metosin/tilakone "0.0.4"]
+[cloudpermit/tilakone "0.0.5-SNAPSHOT"]
 ```
 
 Optionally, the modules can be required separately:
 
 ```clj
-[metosin/tilakone.core "0.0.4"]
-[metosin/tilakone.schema "0.0.4"]
+[cloudpermit/tilakone.core "0.0.5-SNAPSHOT"]
+[cloudpermit/tilakone.schema "0.0.5-SNAPSHOT"]
 ```
 
 ## Intro
